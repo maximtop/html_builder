@@ -1,0 +1,15 @@
+{
+  "name": "html_builder",
+  "version": "1.0.0",
+  "description": "solution for hexlet challenges",
+  "main": "src/app/solution.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Maxim Topciu",
+  "license": "MIT"
+}
